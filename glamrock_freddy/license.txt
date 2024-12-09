@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glamrok Freddy (Teo Animation)
+* source:	https://sketchfab.com/3d-models/glamrok-freddy-teo-animation-3b44516c75dd4976a03d886629818ce7
+* author:	雨宮レン (https://sketchfab.com/oscar3dmodel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glamrok Freddy (Teo Animation)" (https://sketchfab.com/3d-models/glamrok-freddy-teo-animation-3b44516c75dd4976a03d886629818ce7) by 雨宮レン (https://sketchfab.com/oscar3dmodel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
