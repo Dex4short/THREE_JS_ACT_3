@@ -42,7 +42,7 @@ window.addEventListener('resize', () => {
 
 /*Objects*/
 const loader = new GLTFLoader();
-const path = 'https://dex4short.github.io/THREE_JS_ACT_3/hatsune_miku/scene.png';
+const path = 'https://dex4short.github.io/THREE_JS_ACT_3/hatsune_miku/scene.gltf';
 loader.load(
   path,
   (gltf) => {
