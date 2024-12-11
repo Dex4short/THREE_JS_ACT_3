@@ -142,7 +142,7 @@ scene.add(particles);
 
 /*Player*/
 let play = false;
-canvas.addEventListener('click', (event) => {
+canvas.addEventListener('mousedown', (event) => {
   if(!play){
     audio.play();
     play = true;
