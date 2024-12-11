@@ -45,12 +45,12 @@ window.addEventListener('resize', () => {
 /*background*/
 
 /*Light*/
-const red_light = new THREE.DirectionalLight(0xff00ff, 0.5);
+const red_light = new THREE.DirectionalLight(0xff00ff, 1);
 red_light.position.set(20, 0, 0);
 red_light.castShadow = true;
 scene.add(red_light);
 
-const blue_light = new THREE.DirectionalLight(0x00ffff, 0.5);
+const blue_light = new THREE.DirectionalLight(0x00ffff, 1);
 blue_light.position.set(-20, 0, 0);
 blue_light.castShadow = true;
 scene.add(blue_light);
@@ -86,7 +86,7 @@ const audio = new Audio('https://dex4short.github.io/THREE_JS_ACT_3/sound/Miku.m
 let clock = null; 
 
 /*Stage*/
-const main_light = new THREE.DirectionalLight(0xffffff, 0.2);
+const main_light = new THREE.DirectionalLight(0xffffff, 0.3);
 main_light.position.set(0, 0.5, 1);
 scene.add(main_light);
 
